@@ -1,0 +1,8 @@
+<Dataset name='TestName'>
+ <Row><TestName>GLM -- FamilyTest</TestName></Row>
+</Dataset>
+<Dataset name='Result'>
+ <Row><Result>Pass</Result></Row>
+</Dataset>
+<Dataset name='Errors'>
+</Dataset>
